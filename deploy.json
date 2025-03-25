@@ -41,14 +41,14 @@
     },
     "appServicePlanName": {
       "type": "string",
-      "defaultValue": "MyAppServicePlan",
+      "defaultValue": "ASP-myMVCgroup-9914",
       "metadata": {
         "description": "Nombre del App Service Plan."
       }
     },
     "webAppName": {
       "type": "string",
-      "defaultValue": "MyMvcApp",
+      "defaultValue": "MyMvcAppNacho",
       "metadata": {
         "description": "Nombre de la aplicación web."
       }
